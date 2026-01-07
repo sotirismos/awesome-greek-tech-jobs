@@ -11,6 +11,7 @@ A curated list of high-quality engineering and business-tech opportunities in th
 | **Accenture** | IT Consulting | [Careers](https://www.accenture.com/gr-en/careers) | [LinkedIn](https://www.linkedin.com/company/accenture-greece/) |
 | **Aegean Airlines** | TravelTech | [Careers](https://en.aegeanair.com/corporate/careers/) | [LinkedIn](https://www.linkedin.com/company/aegean-airlines/) |
 | **Beat (Free Now)** | Mobility / Apps | [Careers](https://free-now.com/careers/) | [LinkedIn](https://www.linkedin.com/company/free-now/) |
+| **Bespot** | AI / IoT / RetailTech | [Careers](https://apply.workable.com/bespot/) | [LinkedIn](https://www.linkedin.com/company/bespot/) |
 | **Blueground** | PropTech / SaaS | [Careers](https://apply.workable.com/blueground/) | [LinkedIn](https://www.linkedin.com/company/blueground-co/) |
 | **D ONE** | Data / Consulting | [Careers](https://apply.workable.com/d-one/) | [LinkedIn](https://www.linkedin.com/company/d-one-athens/) |
 | **DeepSea** | AI / Maritime | [Careers](https://www.deepsea.ai/careers/) | [LinkedIn](https://www.linkedin.com/company/deepsea-technologies/) |
