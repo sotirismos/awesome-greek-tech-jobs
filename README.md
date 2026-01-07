@@ -1,4 +1,4 @@
-# awesome-greek-it-jobs
+# awesome-greek-tech-jobs
 A curated list of high-quality engineering and business-tech opportunities in the Greek market. This repository serves as a personal dashboard to track applications and organize the search for Software, Data, and Backend roles etc.
 
 ---
