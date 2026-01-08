@@ -45,6 +45,7 @@ A curated list of high-quality engineering and business-tech opportunities in th
 | **Sitecore** | CMS / MarTech | [Careers](https://www.sitecore.com/company/careers) | [LinkedIn](https://www.linkedin.com/company/sitecore/) |
 | **Skroutz** | E-commerce / Fintech | [Careers](https://apply.workable.com/skroutz/) | [LinkedIn](https://www.linkedin.com/company/skroutz-gr/) |
 | **SoftOne** | ERP / SaaS | [Careers](https://www.softone.gr/company/careers/) | [LinkedIn](https://www.linkedin.com/company/softone-technologies-s-a-/) |
+| **Sthenos AI** | Defense and Space Manufacturing / AI | [Careers](https://sthenos.ai/) | [LinkedIn](https://www.linkedin.com/company/sthenos-ai/) |
 | **ThinkDigital** | Digital Ads / Tech | [Careers](https://thinkdigitalgroup.net/careers/) | [LinkedIn](https://www.linkedin.com/company/thinkdigital/) |
 | **Upstream** | Mobile Marketing | [Careers](https://www.upstreamsystems.com/careers/) | [LinkedIn](https://www.linkedin.com/company/upstream/) |
 | **VIVA.com** | Fintech / Payments | [Careers](https://www.viva.com/en-gr/careers) | [LinkedIn](https://www.linkedin.com/company/vivacom-gr/) |
@@ -56,10 +57,11 @@ A curated list of high-quality engineering and business-tech opportunities in th
 * [LinkedIn: Software Engineer in Greece](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer&location=Greece)
 * [LinkedIn: Data Engineer in Greece](https://www.linkedin.com/jobs/search/?keywords=Data%20Engineer&location=Greece)
 * [Kariera.gr: Tech Jobs](https://www.kariera.gr/en/jobs/it-telecoms)
+* [Startup Pirate: Learn what matters in Greek tech and startups](https://startuppirate.gr/)
 
 ---
 
-## Usefull Notes
+## Useful Notes
 - **Remote vs. Hybrid:** Many Athens-based companies are moving to 1-2 days in office.
-- **Salary Insight:** Remote roles for international companies (via B2B) usually pay higher than local Greek contracts.
+- **Salary Insight:** Remote roles for international companies (via B2B) usually pay higher than local Greek contracts. Be careful with trade-offs when private health coverage is provided by the latter.
 - **Interview Prep:** Focus on System Design for Senior roles and LeetCode (Medium) for mid-level.
